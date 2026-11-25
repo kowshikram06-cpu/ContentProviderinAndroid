@@ -29,8 +29,8 @@ Step 7: Save and run the application.
 ## PROGRAM:
 ```
 Program to print the text create your own content providers to get contacts details.
-Developed by: Parthipan M
-Registeration Number : 212225040294
+Developed by: Kowshik Ram S
+Registeration Number : 212225230143
 ```
 ## activity_main.xml:
 ```
